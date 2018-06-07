@@ -1,0 +1,11 @@
+#	Player	Goals	Caps	Career
+1	Clint Dempsey	57	140	2004–
+2       Landon Donovan	57	157	2000–2014
+3	Jozy Altidore	41	109	2007–
+4	Eric Wynalda	34	106	1990–2000
+5	Brian McBride	30	95	1993–2006
+6	Joe-Max Moore	24	100	1992–2002
+7	Bruce Murray	21	85	1985–1993
+8	Eddie Johnson	19	63	2004–2014
+9	Earnie Stewart	17	101	1990–2004
+11      Michael Bradley	17	139	2006–
